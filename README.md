@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahmood-AlSaheel
-- 👀 I’m interested in Data science and data analysis,also training in machine learning models 
+- 👀 I’m interested in Data science and data analysis,also training models in machine learning models 
 - 🌱 I’m currently learning how to train using fine-tuning
 
 - 📫 How to reach me Phone number:966536263749, email: mahmoodalsaheel0@gmail.com
